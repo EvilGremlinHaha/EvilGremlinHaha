@@ -1,4 +1,4 @@
-<H1>Hello, I am a learning/self taught front end sofftware engineer</H1> 
+<H1>Hello, I am a learning/self taught front end software engineer</H1> 
 <p align="center">
   <img src="https://giffiles.alphacoders.com/936/93695.gif" width="5000" height="250">
 <h2>I plan to pursue full stack then machine learning when I am satisfied with my front end experience!</h2>
@@ -17,7 +17,4 @@
           
           
           
-          
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiEvilGremlinHaha=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
           
