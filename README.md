@@ -1,9 +1,10 @@
-<H1>Hello, I am a learning/self taught front end software engineer</H1> 
+<H1>Hello, I am a learning/self taught front end software engineer‼❤</H1> 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/936/93695.gif" width="5000" height="250">
+  <img src="https://i.pinimg.com/1200x/04/61/27/046127230a10842ea07ec0f50f9a48de.jpg">
 <h2>I plan to pursue full stack then machine learning when I am satisfied with my front end experience!</h2>
   <p align="center">
 <img src="https://media.tenor.com/KIy1yJZYtUcAAAAM/konata-izumi-izumi-konata.gif" width="500" height="250">
+<img src="https://i.pinimg.com/736x/b3/e4/f4/b3e4f44d55628f36420ca76741665717.jpg" alt="Iforgothername"width="500" height="250" >
  <!---->
 
 <h2> &nbsp;Some Languages I use and am learning </h2>
