@@ -7,7 +7,7 @@
 <img src="https://i.pinimg.com/736x/b3/e4/f4/b3e4f44d55628f36420ca76741665717.jpg" alt="Iforgothername"width="500" height="250" >
  <!---->
 
-<h2> &nbsp;Some Languages I use and am learning </h2>
+<h2> &nbsp;Some Languages I use,am learning and I plan to start learning python and C++ as soon as I am proficient in Javascript and React! </h2>
  <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="Html Icon" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS Icon" Width="60" Height="60" />
